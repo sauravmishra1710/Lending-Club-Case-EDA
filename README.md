@@ -1,7 +1,7 @@
 # Lending-Club-Case-EDA
 This analysis will give an idea about how real business problems are solved using EDA. Is this analysis we not only apply the various EDA techniques, but will also understand the risk analytics in banking and financial services.
 
-# Business Understanding
+# Understanding
 When the company receives a loan application, the company decides for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
 
 	If the applicant is likely to repay the loan, then not approving the loan results in a 
