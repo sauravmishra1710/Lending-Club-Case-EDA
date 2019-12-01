@@ -1,3 +1,10 @@
+# Objective
+
+For lending companies, lending loans to risky applicants is the largest source of financial loss. The credit loss is the amount of money lost by the lender when the borrower defaults to a loan payment. In such a case, the concerned person is labelled as **charged-of** and **defaulters**. 
+
+If one is able to identify such risky applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the primary objective of this case study.
+
+
 # Lending-Club-Case-EDA
 This analysis will give an idea about how real business problems are solved using EDA. Is this analysis we not only apply the various EDA techniques, but will also understand the risk analytics in banking and financial services.
 
@@ -28,10 +35,5 @@ When a person applies for a loan, there are two types of decisions that could be
 	The company rejects the loan application.
 
 
-# Objective
-
-For lending companies, lending loans to risky applicants is the largest source of financial loss. The credit loss is the amount of money lost by the lender when the borrower defaults to a loan payment. In such a case, the concerned person is labelled as **charged-of** and **defaulters**. 
-
-If one is able to identify such risky applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the primary objective of this case study.
 
 **Thus company wants to understand the driving factors behind loan default.**
